@@ -1,4 +1,4 @@
-# S&P500 Data Extrapolation
+ <h3> S&P500 Data Extrapolation <h3> 
 In this series of notebooks we are going to describe the methodology used for extracting relevant statistics from an S&P500 csv file. These statistics are then used to compare synthetic data generated from a WGAN-GP and an SPDGAN.
 
 # The dataset
