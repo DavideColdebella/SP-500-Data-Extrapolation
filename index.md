@@ -17,3 +17,4 @@ In order to obtain the correlation matrices we convert the covariance matrix div
 From now on we analyze the canonically computed correlation matrices.
 # The Statistics 
 ### Upper triangular elements 
+
