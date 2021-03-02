@@ -17,4 +17,3 @@ In order to obtain the correlation matrices we convert the covariance matrix div
 From now on we analyze the canonically computed correlation matrices.
 <h1> The Statistics </h1>
 <h3> Upper triangular elements </h3>
-{% include Onion_hist_corr.html %}
